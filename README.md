@@ -1,2 +1,2 @@
-README
+REMOTE
 Je suis un saumon volant
